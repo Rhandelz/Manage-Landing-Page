@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Rhandelz/Manage-Landing-Page)
-- Live Site URL: [Add live site URL here](https://astonishing-swan-5ad1a3.netlify.app/)
+- Solution URL: [Solution](https://github.com/Rhandelz/Manage-Landing-Page)
+- Live Site URL: [Live Website](https://astonishing-swan-5ad1a3.netlify.app/)
 
 ## My process
 
