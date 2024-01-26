@@ -14,7 +14,7 @@ const Hero = () => {
               Manage makes it simple for software teams to plan day-to-day tasks
               while keeping the larger team goals in view.
             </p>
-            <button className="text-white text-[11px] font-medium font-be tracking-wide px-8 py-[15px] bg-red-400 rounded-[40px]  hover:opacity-85">
+            <button className="text-white text-[11px] font-medium font-be tracking-wide px-8 py-[15px] bg-[#F3603C] rounded-[40px]  hover:opacity-85">
               Get Started
             </button>
           </div>
@@ -35,26 +35,3 @@ const Hero = () => {
 };
 
 export default Hero;
-
-{
-  /* <main className=" w-full bg-slate-600 flex flex-col gap=[23px]">
-<div className=" h-1/2 w-full flex justify-center items-center">
-  <img src={heroImg} alt="" className=" max-w-full max-h-full" />
-</div>
-
-<div className=" h-min w-full flex flex-col  items-center gap-[23px]">
-  <h1 className=" w-full text-center text-[40px] text-blue-950 font-medium">
-    {" "}
-    Bring everyone together to build better products.
-  </h1>
-  <p className=" text-center max-w-[50%] text-blue-950 text-base font-normal font-['Be Vietnam Pro'] leading-[25px] ">
-    {" "}
-    Manage makes it simple for software teams to plan day-to-day tasks
-    while keeping the larger team goals in view.
-  </p>
-  <button className="text-white text-[11px] font-medium font-['Be Vietnam Pro'] tracking-wide px-8 py-[15px] bg-red-400 rounded-[40px] hidden md:flex ">
-    Get Started
-  </button>
-</div>
-</main> */
-}
